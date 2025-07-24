@@ -1,0 +1,60 @@
+{
+  "originHash" : "1b5b4cc5cbf15927431e6fdc0dc79387a9315013333fc2ab621acb578cb7fe27",
+  "pins" : [
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "revision" : "2015fda791daa72c8058619545a593bf8c1dd59f",
+        "version" : "8.5.0"
+      }
+    },
+    {
+      "identity" : "nativeblocks-compiler-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nativeblocks/nativeblocks-compiler-ios.git",
+      "state" : {
+        "revision" : "8fa5bcac5d3abfc25004a70b615b650985fef68c",
+        "version" : "1.2.2"
+      }
+    },
+    {
+      "identity" : "nativeblocks-foundation-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nativeblocks/nativeblocks-foundation-ios",
+      "state" : {
+        "revision" : "6c1dd80bb1983b047a6664b7fe11ad7a4a711f70",
+        "version" : "1.2.0"
+      }
+    },
+    {
+      "identity" : "nativeblocks-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nativeblocks/nativeblocks-ios-sdk",
+      "state" : {
+        "revision" : "fd8748e339d367d857d2e3f1869fe611432f0748",
+        "version" : "1.4.1"
+      }
+    },
+    {
+      "identity" : "nativeblocks-wandkit-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nativeblocks/nativeblocks-wandkit-ios-sdk",
+      "state" : {
+        "revision" : "09ab83c0f28b397a08f4ed27583d29e1a2bece68",
+        "version" : "1.0.5"
+      }
+    },
+    {
+      "identity" : "swift-syntax",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-syntax.git",
+      "state" : {
+        "revision" : "64889f0c732f210a935a0ad7cda38f77f876262d",
+        "version" : "509.1.1"
+      }
+    }
+  ],
+  "version" : 3
+}
