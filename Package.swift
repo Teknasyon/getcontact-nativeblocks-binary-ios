@@ -12,10 +12,10 @@ let package = Package(
         // Products define the executables and libraries a package produces, making them visible to other packages.
     ],
     dependencies: [
-        .package(url: "https://github.com/nativeblocks/nativeblocks-ios-sdk", exact: "1.4.1"),
-        .package(url: "https://github.com/nativeblocks/nativeblocks-foundation-ios", from: "1.2.0"),
-        .package(url: "https://github.com/nativeblocks/nativeblocks-wandkit-ios-sdk", from: "1.0.5"),
-        .package(url: "https://github.com/nativeblocks/nativeblocks-compiler-ios.git", from: "1.2.2"),
+        .package(url: "https://github.com/nativeblocks/nativeblocks-ios-sdk", exact: "1.7.1"),
+        .package(url: "https://github.com/nativeblocks/nativeblocks-foundation-ios", from: "1.2.2"),
+        .package(url: "https://github.com/nativeblocks/nativeblocks-wandkit-ios-sdk", from: "1.1.0"),
+        .package(url: "https://github.com/nativeblocks/nativeblocks-compiler-ios.git", from: "1.3.0"),
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
